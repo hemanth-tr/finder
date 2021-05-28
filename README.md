@@ -9,13 +9,13 @@ README
 2. _file_
 
 ## Input:
-1. *what you wanna search?* Select form the options:
+*what you wanna search?* Select form the options:
     1. text
     2. file
 
 a. [option-number]
 
-2. *Enter the text to search?*
+*Enter the text to search?*
 
 a: [text-to-search]
 
