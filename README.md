@@ -1,6 +1,6 @@
 README
 
-## Operations
+# Operations
 1. search
 2. replace
 
